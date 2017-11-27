@@ -17,11 +17,11 @@ Follow these steps to get started:
 
 Run the tool with:
 
-    node united.js ORIGIN DESTINATION START END
+    node united2.js ORIGIN DESTINATION START END
 
 Example
 
-    node united.js SFO TPE 5/18/2016 5/20/2016
+    node united2.js SFO TPE 5/18/2016 5/20/2016
 
 ## FAQ
 
